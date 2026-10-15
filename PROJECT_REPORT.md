@@ -1,9 +1,9 @@
 # Care Transition Efficiency & Placement Outcome Analytics
 ## Project Report Draft
 
-**Student:** [Your name]  
-**Program / Internship:** [Program name]  
-**Date:** [Submission date]
+**Student:** Yashasvi Sharma  
+**Program / Internship:** Machine Learning Internship  
+**Date:** 15/10/2026
 
 ## 1. Abstract
 This project uses Python to explore aggregate reporting data about the movement of unaccompanied children through CBP custody and HHS care. A Streamlit dashboard presents basic counts, trends, descriptive transfer and discharge ratios, and threshold-based visual alerts. The goal is to make the supplied data easier to explore and to highlight patterns that may merit further investigation.
